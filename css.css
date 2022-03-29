@@ -1,0 +1,12 @@
+.navbar{
+    background-color: rgba(82,64,120,0.9) !important;
+}
+.navbar li a {
+    color: yellowgreen !important;
+}
+.navbar li a:hover {
+    color: black !important;
+}
+.btn-primary:hover{
+    color: chartreuse;
+}
