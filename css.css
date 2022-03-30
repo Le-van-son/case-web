@@ -2,10 +2,10 @@
     background-color: rgba(82,64,120,0.9) !important;
 }
 .navbar li a {
-    color: yellowgreen !important;
+    color: black !important;
 }
 .navbar li a:hover {
-    color: black !important;
+    color: green !important;
 }
 .btn-primary:hover{
     color: chartreuse;
